@@ -1,7 +1,7 @@
 
 [![Megh's GitHub Banner](./assets/Header.png)](https://github.com/m11dedhia)
 
-[![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=m11dedhia.visitor-badge)](https://www.github.com/m11dedhia) [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/megh_dedhia) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/megh-dedhia)
+[![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=m11dedhia.visitor-badge)](https://www.github.com/m11dedhia) [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/megh_dedhia) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=megh-dedhia)
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/m11dedhia)
 
 Hi there 👋
