@@ -5,7 +5,7 @@
 
 Hi there 👋
 
-I'm Megh, a full-stack engineer, blockchain developer and a freelancer that specializes in dealing with data. I have a knack of building robust backend systems. I learn new technology at a pretty swift rate and make it a point to efficiently convert business logic into a comprehensive backend.
+I'm Megh, a full-stack engineer, blockchain developer and a freelancer who specializes in dealing with data. I have a knack of building robust backend systems. I learn new technologies at a pretty swift rate and make it a point to efficiently convert business logic into a comprehensive backend. I've built [Color Museum](https://color.museum) and served as the Lead Developer scaling the backend systems to 100,000 users.
 <br>
 ## 📌 Pinned Repositories
 <br>
